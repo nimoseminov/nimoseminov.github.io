@@ -174,8 +174,8 @@
     
 <header class="header">
         
-            <div class="logo">
-                    <a href="/"><img src="https://cdn.jsdelivr.net/gh/a2396837/CDN@latest/images/2020/07/27/baokemeng.webp" onerror=this.onerror=null,this.src="/img/loading.gif"></a>
+            <div class="title">
+                <a href="/">nimo_seminov</a>
             </div>
          
     </div>
@@ -187,24 +187,8 @@
                             <i class="iconfont icon-GitHub" aria-hidden="true"></i>
                           </a>
                  
-                        <a class="social-icon" href="mailto:894049579@qq.com" target="_blank" title="Email">
+                        <a class="social-icon" href="mailto:nimoseminov@gmail.com" target="_blank" title="Email">
                             <i class="iconfont icon-email" aria-hidden="true"></i>
-                          </a>
-                 
-                        <a class="social-icon" href="https://steamcommunity.com/id/a2396837" target="_blank" title="Steam">
-                            <i class="iconfont icon-steam" aria-hidden="true"></i>
-                          </a>
-                 
-                        <a class="social-icon" href="https://space.bilibili.com/8823569" target="_blank" title="Bilibili">
-                            <i class="iconfont icon-bilibili" aria-hidden="true"></i>
-                          </a>
-                 
-                        <a class="social-icon" href="https://music.163.com/#/user/home?id=262078590" target="_blank" title="Netmusic">
-                            <i class="iconfont icon-wangyiyunyinle1" aria-hidden="true"></i>
-                          </a>
-                 
-                        <a class="social-icon" href="/atom.xml" target="_blank" title="rss">
-                            <i class="iconfont icon-rss" aria-hidden="true"></i>
                           </a>
                  
             </div>
@@ -289,25 +273,6 @@
       </div>
         <div class="reward">
           
-  <div style="padding: 10px 0; margin-left: 20px; width: 90%; text-align: center;">
-    <div class="reward-content">
-        <ul id="donateBox" class="list pos-a">
-          
-           <li id="PayPal"><a href="https://paypal.me" target="_blank" title="PayPal">PayPal</a></li>
-            
-          
-            <li id="AliPay" title="Alipay"><img data-img="/img/alipay.jpg" onerror=this.onerror=null,this.src="/img/loading.gif"></img></li>
-               
-                 
-            <li id="WeChat" title="Wechatpay"><img date-img="/img/wechat.jpg" onerror=this.onerror=null,this.src="/img/loading.gif"></img></li>
-                      
-          </ul>
-        <div id="QRBox" class="pos-f left-100">
-          <div id="MainBox"></div>
-        </div>
-    </div>
-  </div>
-  
         </div>
     </div>
     
@@ -443,45 +408,6 @@
 
 
 
-  <script>
-    jQuery(document).ready(function () {
-      var QRBox = $('#QRBox');
-      var MainBox = $('#MainBox');
-      var AliPayQR = '/img/alipay.jpg';
-      var WeChanQR = '/img/wechat.jpg';
-
-      function showQR(QR) {
-        if (QR) {
-          MainBox.css('background-image', 'url(' + QR + ')');
-        }
-        $('#donateBox').addClass('blur');
-        QRBox.fadeIn(300, function (argument) {
-          MainBox.addClass('showQR');
-        });
-      }
-
-      $('#donateBox>li').click(function (event) {
-        var thisID = $(this).attr('id');
-        if (thisID === 'AliPay') {
-          showQR(AliPayQR);
-        } else if (thisID === 'WeChat') {
-          showQR(WeChanQR);
-        }
-      });
-
-      MainBox.click(function (event) {
-        MainBox.removeClass('showQR').addClass('hideQR');
-        setTimeout(function (a) {
-          QRBox.fadeOut(300, function (argument) {
-            MainBox.removeClass('hideQR');
-          });
-          $('#DonateText,#donateBox,#github').removeClass('blur');
-        }, 600);
-
-      });
-    });
-  </script>
-  
 
 
 
