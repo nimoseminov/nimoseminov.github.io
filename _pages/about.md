@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to nimoseminov's personal academic site"
+title: "Welcome to my personal academic site"
 author_profile: true
 redirect_from: 
   - /about/
@@ -12,6 +12,4 @@ I am Yimu Mao and you can also call me nimo seminov, I am now a student in Stift
 Ich bin Yimu Mao und Sie können mich auch nimo seminov nennen. Ich bin jetzt Student in der Stiftung Louisenlund, Deutschland. Wenn Sie Fragen haben, können Sie mir eine E-Mail auf Deutsch, Englisch, Russisch und Chinesisch schicken. Meine Studieninteressen sind Galoistheorie, Algebraische Geometrie und Reelle und Komplexe Analysis.
 
 Меня зовут Иму Мао, и вы также можете называть меня Нимо Семинов, я сейчас студент в Stiftung Louisenlund, Германия. Если у вас есть вопросы, вы можете написать мне по электронной почте, используя немецкий, английский, русский и китайский языки. Меня интересуют теория Галуа, алгебраическая геометрия, вещественный и комплексный анализ.
-
-======
 
