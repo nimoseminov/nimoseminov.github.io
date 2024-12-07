@@ -52,4 +52,6 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Participated in the Exeter Math Club Competition(EMCC) as a member of the Chinese delegation, 2019-2020
+* Representing Nanjing Foreign Language School in Continental Calculus League(CCL) Competition, 2023
+* Participated in the International Tournament of Young Mathematicians(ITYM) as a member of Germany North, 2023
