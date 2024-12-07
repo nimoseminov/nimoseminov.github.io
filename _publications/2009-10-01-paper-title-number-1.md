@@ -2,9 +2,9 @@
 title: "Dreieck auf dem algebraische Kurven"
 collection: publications
 category: manuscripts
-permalink: /publication/2023-12-27-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023-12-27
+permalink: /publication/2024-4-3-paper-title-number-1
+excerpt: 'These 2 papers are the same PPT, I am still looking for the paper'
+date: 2024-4-3
 venue: 'Christian-Albrechts-Universität zu Kiel Jugend Forscht'
 slidesurl: 'http://nimoseminov.github.io/files/ETEAM_2024_Germany_North.pdf'
 paperurl: 'http://nimoseminov.github.io/files/ETEAM_2024_Germany_North.pdf'
