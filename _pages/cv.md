@@ -38,7 +38,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
-<div style="display:none">
+<div style='display: none'>
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
