@@ -21,7 +21,7 @@ Work experience
   * Duties includes: Providing Math help and math instruction
   * Supervisor: Nobody
     
-excerpt: "Working as a Math teaching assistant in NanJing<br/><img src='/images/Math teaching assitantpng.png'>"
+<img src='/images/Math teaching assitantpng.png'>"
   
 Skills
 ======
