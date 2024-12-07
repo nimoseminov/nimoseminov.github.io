@@ -37,7 +37,8 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<div style="display:none">
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
@@ -49,6 +50,7 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+</div>
   
 Service and leadership
 ======
