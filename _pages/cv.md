@@ -11,35 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* NanJing 29th Middle School Junior High School, 2022
+* Stiftung Louisenlund, untergraduated
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Spring 2023: Math teaching assistant
+  * NanJing
+  * Duties includes: Providing Math help and math instruction
+  * Supervisor: Nobody
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Geige spielen / play the violin / скрипки
+* Mathematik / Mathematics /Mатематика
+  * Galois Theory
+  * Algebraic Geometry
+  * Real and Complex Analysis
+* English, German, Russian and Chinese
 
 Publications
 ======
