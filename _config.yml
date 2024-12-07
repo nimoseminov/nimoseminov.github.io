@@ -24,9 +24,9 @@ author:
   avatar           : "55555.png"
   name             : "Yimu Mao(毛一木)"
   pronouns         : # example: "she/her"  
-  bio              : "nimo seminov"
+  bio              : "Taken on December 7th, 2024"
   location         : "Europa"
-  employer         : "noch nicht"
+  employer         : "Noch nicht"
   uri              : # URL
   email            : "nimoseminov@gmail.com" 
 
@@ -79,7 +79,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal Articles / Translation of mathematical literature'    
   conferences:
     title: 'Conference Papers'
 
