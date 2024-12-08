@@ -1,9 +1,9 @@
 ---
-title: "Translation of Algebraiv Geometry written by Markus Brotmann(2)"
+title: "Translation of Algebraic Geometry written by Markus Brotmann(2)"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-9-23-Translation of Algebraiv Geometry written by Markus Brotmann(2)
-excerpt: 'Translation of Algebraiv Geometry written by Markus Brotmann(2)'
+excerpt: 'Translation of Algebraic Geometry written by Markus Brotmann(2)'
 date: 2023-9-23
 venue: 'Stiftung Louisenlund'
 slidesurl: 'http://nimoseminov.github.io/files/Algebraic Geometry(MB2).pdf'
