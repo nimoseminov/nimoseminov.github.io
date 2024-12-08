@@ -1,7 +1,12 @@
 ---
 title: "In the United States, before the pandemic"
-excerpt: "Group photo of the Chinese team participating in EMCC 1<br/><img src='/images/national team1.png'>"
+excerpt: "Group photo of the Chinese team participating in EMCC <br/><img src='/images/national team1.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<img src='/images/national team1.png'>
+This photo was taken in New York, in the USA,on February 8, 2020, before the COVID-19 outbreak
+* The first one from the left is currently at New York University
+* The second one from the left is currently at Tongji University, department of Energy and Power Engineering
+* The third one from the left is currently at Nanjing University, department of chemistry
+* The forth one from the left is me
