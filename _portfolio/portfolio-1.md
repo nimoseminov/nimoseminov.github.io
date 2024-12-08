@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "In the United States, before the pandemic"
+excerpt: "Group photo of the Chinese team participating in EMCC 1<br/><img src='/images/national team1.png'>"
 collection: portfolio
 ---
 
