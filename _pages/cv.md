@@ -21,7 +21,7 @@ Work experience
   * Duties includes: Providing Math help and math instruction
   * Supervisor: Nobody
     
-<img src='/images/math assitant.png'>"
+<img src='/images/math assitant.png'>
   
 Skills
 ======
