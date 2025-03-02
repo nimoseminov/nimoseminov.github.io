@@ -6,9 +6,9 @@ permalink: /publication/2024-4-3-paper-title-number-1
 excerpt: 'This is my project for this year'
 date: 2024-4-3
 venue: 'Lübeck Jugend Forscht'
-slidesurl: 'http://nimoseminov.github.io/files/ETEAM_2024_Germany_North.pdf'
-paperurl: 'http://nimoseminov.github.io/files/ETEAM_2024_Germany_North.pdf'
-citation: 'Yimu Mao. (2023). &quot;Dreieck auf dem algebraische Kurven.&quot'
+slidesurl: 'http://nimoseminov.github.io/files/Jugend_Forscht_2025.pdf'
+paperurl: 'http://nimoseminov.github.io/files/Jugend_Forscht_2025.pdf'
+citation: 'Yimu Mao. (2023). &quot;.Analyse algebraischer Varietäten mit Hilfe von Galois-Theorie&quot'
 ---
 
 
