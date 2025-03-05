@@ -2,9 +2,9 @@
 title: "Analyse algebraischer Varietäten mit Hilfe von Galois-Theorie"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-4-3-paper-title-number-1
+permalink: /publication/2024-2-12-Analyse-algebraischer-Varietäten-mit-Hilfe-von-Galois-Theorie
 excerpt: 'This is my project for this year'
-date: 2024-4-3
+date: 2025.2.12
 venue: 'Lübeck Jugend Forscht'
 slidesurl: 'http://nimoseminov.github.io/files/Jugend_Forscht_2025.pdf'
 paperurl: 'http://nimoseminov.github.io/files/Jugend_Forscht_2025.pdf'
