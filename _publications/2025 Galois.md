@@ -2,7 +2,7 @@
 title: "Analyse algebraischer Varietäten mit Hilfe von Galois-Theorie"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-2-12-Analyse-algebraischer-Varietäten-mit-Hilfe-von-Galois-Theorie
+permalink: /publication/2024-2-12-Analyse algebraischer Varietäten mit Hilfe von Galois-Theorie
 excerpt: 'This is my project for this year'
 date: 2025.2.12
 venue: 'Lübeck Jugend Forscht'
