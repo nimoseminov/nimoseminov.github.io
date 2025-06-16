@@ -1,6 +1,6 @@
 ---
-title: "In the United States, before the pandemic"
-excerpt: "Group photo of the Chinese team participating in EMCC <br/><img src='/images/national team1.png'>"
+title: "Visiting the Max-Planck Institute for Mathematics"
+excerpt: "Visiting the Max-Planck Institute for Mathematics <br/><img src='/images/visit Max-Planck-Institut for mathematik.png'>"
 collection: portfolio
 ---
 
