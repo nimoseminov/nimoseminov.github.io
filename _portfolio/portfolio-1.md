@@ -1,5 +1,5 @@
 ---
-title: "In the United States, before the pandemic"
+title: "In the United States, before the pandemic,January 2020"
 excerpt: "Group photo of the Chinese team participating in EMCC <br/><img src='/images/national team1.png'>"
 collection: portfolio
 ---
