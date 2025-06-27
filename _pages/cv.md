@@ -22,6 +22,11 @@ Work experience
   * Supervisor: Nobody
     
 <img src='/images/math assitant.png'>
+
+* Summer 2025: Research Intern – Real Algebraic Geometry
+  * Technische Universität Dresden
+  * Duties includes: 
+  * Supervisor: 
   
 Skills
 ======
