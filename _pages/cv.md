@@ -25,7 +25,7 @@ Work experience
 
 * Summer 2025: Research Intern – Real Algebraic Geometry
   * Technische Universität Dresden
-  * Duties includes: a project about real algebraic geometry
+  * Duties includes: A project about real algebraic geometry
   * Supervisor: Prof. Mario Kummer ([mario.kummer@tu-dresden.de](mailto:mario.kummer@tu-dresden.de))
   
 Skills
