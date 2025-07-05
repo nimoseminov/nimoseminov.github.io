@@ -20,8 +20,6 @@ Work experience
   * NanJing
   * Duties includes: Providing Math help and math instruction
   * Supervisor: Nobody
-    
-<img src='/images/math assitant.png'>
 
 * Summer 2025: Research Intern – Real Algebraic Geometry
   * Institute of Geometry, Faculty of Mathematics, TU Dresden (Dresden University of Technology)
