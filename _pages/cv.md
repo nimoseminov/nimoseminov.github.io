@@ -28,19 +28,20 @@ Work experience
   
 Skills
 ======
-* Play the violin / Geige spielen / скрипки
+* Mathematics / Mathematik / Mатематика
+  * **Galois Theory**
+  * **Algebraic Geometry**
+  * **Real and Complex Analysis**
 * Programming & Computational Tools
   * **Julia**
   * **C++**
   * **MATLAB**
   * **Mathematica**
   * **LaTeX**
-* Mathematics / Mathematik / Mатематика
-  * Galois Theory
-  * Algebraic Geometry
-  * Real and Complex Analysis
 * English, German, Russian and Chinese
+* Play the violin / Geige spielen / скрипки
 
+  
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
