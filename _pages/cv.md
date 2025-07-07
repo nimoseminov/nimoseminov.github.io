@@ -29,16 +29,20 @@ Work experience
 Skills
 ======
 * Mathematics / Mathematik / Mатематика
-  * **Galois Theory**
-  * **Algebraic Geometry**
-  * **Real and Complex Analysis**
+  * Galois Theory
+  * Algebraic Geometry
+  * Real and Complex Analysis
 * Programming & Computational Tools
-  * **Julia**
-  * **C++**
-  * **MATLAB**
-  * **Mathematica**
-  * **LaTeX**
-* English, German, Russian and Chinese
+  * Julia
+  * C++
+  * MATLAB
+  * Mathematica
+  * LaTeX
+* language
+  * English (fluent; used in academic writing and international competitions)
+  * German (fluent; schooling and academic communication)
+  * Russian (informal and reading)
+  * Chinese (native)
 * Play the violin / Geige spielen / скрипки
 
   
