@@ -28,8 +28,10 @@ Work experience
   
 Skills
 ======
-* Geige spielen / Play the violin / скрипки
-* Mathematik / Mathematics / Mатематика
+* Play the violin / Geige spielen / скрипки
+* Programming & Computational Tools
+  **Julia**, **MATLAB**, **C++**, **Mathematica**, **LaTeX**
+* Mathematics / Mathematik / Mатематика
   * Galois Theory
   * Algebraic Geometry
   * Real and Complex Analysis
