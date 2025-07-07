@@ -30,7 +30,11 @@ Skills
 ======
 * Play the violin / Geige spielen / скрипки
 * Programming & Computational Tools
-  * **Julia**, **MATLAB**, **C++**, **Mathematica**, **LaTeX**
+  * **Julia**
+  * **C++**
+  * **MATLAB**
+  * **Mathematica**
+  * **LaTeX**
 * Mathematics / Mathematik / Mатематика
   * Galois Theory
   * Algebraic Geometry
