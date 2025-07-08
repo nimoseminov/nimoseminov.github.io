@@ -1,5 +1,5 @@
 ---
-title: "Analyse algebraischer Varietäten mit Hilfe von Galois-Theorie"
+title: "Analysis of Algebraic Varieties Using Galois Theory (German)"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-2-12-Analyse algebraischer Varietäten mit Hilfe von Galois-Theorie
