@@ -17,4 +17,4 @@ It includes singularity computation, smoothness checks, and counting connected c
 
 Complete correctness isn’t guaranteed beyond verified linear transformations. Work was done independently using open-source software. The code supports teaching and research.
 
-Thanks to Professor [Mario Kummer](mario.kummer@tu-dresden.de) for his support.
+Thanks to Professor [Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer) for his support.
