@@ -3,7 +3,7 @@ title: "Topologische Klassifikation kubischer Flächen im dreidimensionalen reel
 collection: publications
 category: manuscripts
 permalink: "/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia" 
-excerpt: 'This project explores the combination of algebraic geometry and Galois theory to determine the number of connected components of polynomial solution sets. Although the research is still in the development stage, several related methods have been introduced.'
+excerpt: 'This article demonstrates how Julia and computer algebra tools classify topological types of real cubic surfaces in projective space. Developed during an internship at TU Dresden, it includes singularity computation, smoothness checks, and connected component counting for five examples. The code supports teaching and research.'
 date: 2025.7.5
 venue: 'TU Dresden'
 slidesurl: 'http://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf'
@@ -11,4 +11,10 @@ paperurl: 'http://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf'
 citation: 'Yimu Mao. (2023). &quot;.Topologische Klassifikation kubischer Flächen im dreidimensionalen reellen projektiven Raum anhand von Julia-Implementierungen: 5 Fallbeispiele &quot'
 ---
 
-This project explores the combination of algebraic geometry and Galois theory to determine the number of connected components of polynomial solution sets. Although the research is still ongoing, several related methods have been introduced. Among them, the necessary and sufficient condition for a polynomial to factor completely into linear equations (hyperplanes) originates from the [reference](https://wenku.csdn.net/doc/7u8353ndrs). The author of that method originally developed it independently without consulting this work, but later acknowledged and cited this project upon discovering it.
+This article shows how Julia and computer algebra tools classify topological types of real cubic surfaces in projective space. The code extends in the [webisite](https://mathrepo.mis.mpg.de/27pAdicLines/JuliaCode.html) and was developed during an internship at the Institute of Geometry, TU Dresden (June 23 – July 4, 2025).
+
+It includes singularity computation, smoothness checks, and counting connected components, with five examples.
+
+Complete correctness isn’t guaranteed beyond verified linear transformations. Work was done independently using open-source software. The code supports teaching and research.
+
+Thanks to Professor [Mario Kummer](mario.kummer@tu-dresden.de) for his support.
