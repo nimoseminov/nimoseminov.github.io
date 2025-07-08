@@ -1,5 +1,5 @@
 ---
-title: "Topologische Klassifikation kubischer Flächen in \\mathbb{P}^3(\\mathbb{R}) anhand von Julia-Implementierungen: 5 Fallbeispiele"
+title: "Topologische Klassifikation kubischer Flächen in $\mathbb{P}^3(\\mathbb{R})$ anhand von Julia-Implementierungen: 5 Fallbeispiele"
 collection: publications
 category: manuscripts
 permalink: "/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia" 
