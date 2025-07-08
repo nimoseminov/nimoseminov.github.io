@@ -2,7 +2,7 @@
 title: "Topologische Klassifikation kubischer Flächen in \\mathbb{P}^3(\\mathbb{R}) anhand von Julia-Implementierungen: 5 Fallbeispiele"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-7-5-Topologische Klassifikation kubischer Flächen in P^3(R) anhand von Julia-Implementierungen: 5 Fallbeispiele
+permalink: "/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia" Fallbeispiele
 excerpt: 'This project explores the combination of algebraic geometry and Galois theory to determine the number of connected components of polynomial solution sets. Although the research is still in the development stage, several related methods have been introduced.'
 date: 2025.7.5
 venue: 'TU Dresden'
