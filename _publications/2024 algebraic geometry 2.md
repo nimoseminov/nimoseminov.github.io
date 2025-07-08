@@ -1,5 +1,5 @@
 ---
-title: "Translation of Algebraic Geometry written by Markus Brotmann(2)"
+title: "Translation of Algebraic Geometry written by Markus Brotmann (2) (Chinese)"
 collection: publications
 category: manuscripts
 permalink: /publication/2023-9-23-Translation of Algebraiv Geometry written by Markus Brotmann(2)
