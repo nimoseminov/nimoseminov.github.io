@@ -1,5 +1,5 @@
 ---
-title: "Topologische Klassifikation kubischer Flächen im dreidimensionalen reellen projektiven Raum anhand von Julia-Implementierungen: 5 Fallbeispiele"
+title: "Topological Classification of Cubic Surfaces in Three-Dimensional Real Projective Space based on Julia Implementations: 5 Case Studies (German)"
 collection: publications
 category: manuscripts
 permalink: "/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia" 
