@@ -8,7 +8,7 @@ date: 2025.7.5
 venue: 'TU Dresden'
 slidesurl: 'http://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf'
 paperurl: 'http://nimoseminov.github.io/files/Praktikum_Aufgaben.pdf'
-citation: 'Yimu Mao. (2023). &quot;.Topologische Klassifikation kubischer Flächen im dreidimensionalen reellen projektiven Raum anhand von Julia-Implementierungen: 5 Fallbeispiele &quot'
+citation: 'Yimu Mao. (2025). &quot;.Topologische Klassifikation kubischer Flächen im dreidimensionalen reellen projektiven Raum anhand von Julia-Implementierungen: 5 Fallbeispiele &quot'
 ---
 
 This article shows how Julia and computer algebra tools classify topological types of real cubic surfaces in projective space. The code extends in the [webisite](https://mathrepo.mis.mpg.de/27pAdicLines/JuliaCode.html) and was developed during an internship at the Institute of Geometry, TU Dresden (June 23 – July 4, 2025).
