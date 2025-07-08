@@ -1,5 +1,5 @@
 ---
-title: "Triangle on Algebraic Curves (German)"
+title: "Triangle on Algebraic Curves (English)"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-4-3-paper-title-number-1
