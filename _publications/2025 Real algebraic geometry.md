@@ -18,3 +18,5 @@ It includes singularity computation, smoothness checks, and counting connected c
 Complete correctness isn’t guaranteed beyond verified linear transformations. Work was done independently using open-source software. The code supports teaching and research.
 
 Thanks to Professor [Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer) for his support.
+
+Here is the [GitHub repository](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4), which contains detailed usage instructions and the corresponding Julia code examples.
