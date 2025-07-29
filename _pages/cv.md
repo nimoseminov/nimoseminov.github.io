@@ -25,6 +25,12 @@ Work experience
   * Institute of Geometry, Faculty of Mathematics, TU Dresden (Dresden University of Technology)
   * Duties includes: [A project about real algebraic geometry](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia)
   * Supervisor: [Prof. Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer) ([mario.kummer@tu-dresden.de](mailto:mario.kummer@tu-dresden.de),)
+ 
+Projects
+======
+* Summer 2025 - Topological Classification of Real del Pezzo surfaces of degree 3 and 4 in $$\mathbb{RP}^3$$ and $$\mathbb{RP}^4$$ via Counting Real Lines Using Julia
+  * Project Page: [https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia)
+  * Code and Github repository: [https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4)
   
 Skills
 ======
