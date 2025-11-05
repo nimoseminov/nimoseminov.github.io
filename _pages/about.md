@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yimu Mao and you can also call me nimo seminov, I am now a student in Stiftung Louisenlund, Germany. If you have questions, you can send me by E-mail, by using German, English, Russian and Chinese. My study interest are Galois Theory, Algebraic Geometry and Real and Complex Analysis. 
+I am Yimu Mao and you can also call me nimo seminov, I am now a student in Stiftung Louisenlund, Germany. If you have questions, you can send me by E-mail, by using German, English, Russian and Chinese. My study interest are now Hochschild-Kostant-Rosenberg theorem. 
 
 Ich bin Yimu Mao und Sie können mich auch nimo seminov nennen. Ich bin jetzt Schüler in der Stiftung Louisenlund, Deutschland. Wenn Sie Fragen haben, können Sie mir eine E-Mail auf Deutsch, Englisch, Russisch und Chinesisch schicken. Meine Studieninteressen sind Galoistheorie, Algebraische Geometrie und Reelle und Komplexe Analysis.
 
