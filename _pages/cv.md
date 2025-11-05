@@ -36,6 +36,7 @@ Skills
 ======
 * Mathematics / Mathematik / Mатематика
   * Hochschild-Kostant-Rosenberg theorem
+  * De Rham cohomology
 * Programming & Computational Tools
   * Julia
   * C++
