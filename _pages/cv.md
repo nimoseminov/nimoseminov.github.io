@@ -35,9 +35,7 @@ Projects
 Skills
 ======
 * Mathematics / Mathematik / Mатематика
-  * Galois Theory
-  * Algebraic Geometry
-  * Real and Complex Analysis
+  * Hochschild-Kostant-Rosenberg theorem
 * Programming & Computational Tools
   * Julia
   * C++
