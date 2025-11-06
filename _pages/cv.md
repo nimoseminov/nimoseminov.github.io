@@ -35,8 +35,8 @@ Projects
 Skills
 ======
 * Mathematics / Mathematik / Mатематика
-  * Hochschild-Kostant-Rosenberg theorem
-  * De Rham cohomology
+  * [Hochschild-Kostant-Rosenberg theorem](https://ncatlab.org/nlab/show/Hochschild-Kostant-Rosenberg+theorem)
+  * [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
 * Programming & Computational Tools
   * Julia
   * C++
