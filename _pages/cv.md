@@ -32,7 +32,7 @@ Projects
   * Project Page: [Topological Classification of Cubic Surfaces in Three-Dimensional Real Projective Space based on Julia Implementations: 5 Case Studies (German)](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia)
   * Code and Github repository: [Julia Code](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4)
   
-Skills
+Skills and interests
 ======
 * Mathematics / Mathematik / Mатематика
   * [Hochschild-Kostant-Rosenberg theorem](https://ncatlab.org/nlab/show/Hochschild-Kostant-Rosenberg+theorem)
