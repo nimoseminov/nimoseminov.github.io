@@ -34,8 +34,7 @@ Projects
 
 Preprints
 ======
-* A Unified Variational Framework for Planar Elastica with General Distributed Loads
-  * arXiv Page: [A Unified Variational Framework for Planar Elastica with General Distributed Loads](https://arxiv.org/abs/2512.08958)
+* Yimu Mao, Christopher Tropp, "A Unified Variational Framework for Planar Elastica with General Distributed Loads" ([arXiv:2512.08958](https://arxiv.org/abs/2512.08958), 2025)
   
 Skills and interests
 ======
