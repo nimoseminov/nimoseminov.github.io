@@ -31,6 +31,11 @@ Projects
 * Summer 2025 - Topological Classification of Real del Pezzo surfaces of degree 3 and 4 in $$\mathbb{RP}^3$$ and $$\mathbb{RP}^4$$ via Counting Real Lines Using Julia
   * Project Page: [Topological Classification of Cubic Surfaces in Three-Dimensional Real Projective Space based on Julia Implementations: 5 Case Studies (German)](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia)
   * Code and Github repository: [Julia Code](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4)
+
+Preprints
+======
+* A Unified Variational Framework for Planar Elastica with General Distributed Loads
+  * arXiv Page: [A Unified Variational Framework for Planar Elastica with General Distributed Loads](https://arxiv.org/abs/2512.08958)
   
 Skills and interests
 ======
