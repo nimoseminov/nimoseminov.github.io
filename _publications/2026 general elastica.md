@@ -9,8 +9,7 @@ venue: 'Journal of Geometry and Symmetry in Physics'
 slidesurl: 'https://arxiv.org/abs/2512.08958'
 paperurl: 'https://arxiv.org/abs/2512.08958'
 citation: 'T.G. Sano, M. Pezzulla, P.M. Reis. (2022). &quot;.A Kirchhoff-like theory for hard
-magnetic rods under geometrically nonlinear deformation in three di-
-mensions &quot'
+magnetic rods under geometrically nonlinear deformation in three dimensions &quot'
 ---
 
 We present a variational framework for analyzing planar elastic rods subjected to distributed magnetic and gravitational loads, systematically reducing nested integrals in the energy functional to single-integral expressions. By exploiting Fubini's theorem and introducing cumulative field functions, the approach simplifies the derivation of the governing equations while clearly separating contributions from bending, magnetic torques, and gravity. Inspired by studies on three-dimensional hard-magnetic rods, the proposed framework not only enhances the clarity of energy-functional analysis but also provides a concise and systematic mathematical formulation for the theoretical study of planar rods under combined magnetic and gravitational effects.
