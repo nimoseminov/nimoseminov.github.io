@@ -39,6 +39,7 @@ author:
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
+  zbmath           : "https://zbmath.org/authors/?q=Yimu+Mao"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -79,7 +80,7 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles / Translation of mathematical literature'    
+    title: 'Journal Articles / Unpublished translation of mathematical literature'    
   conferences:
     title: 'Conference Papers'
 
