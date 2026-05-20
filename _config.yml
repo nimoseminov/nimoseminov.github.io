@@ -38,7 +38,7 @@ author:
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=60250176700"
   zbmath           : "https://zbmath.org/authors/?q=Yimu+Mao"
 
   # Repositories and software development
