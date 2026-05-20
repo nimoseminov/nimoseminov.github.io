@@ -63,9 +63,9 @@
         <li><a href="{{ author.scopus }}"><i class="ai ai-scopus icon-pad-right"></i>Scopus</a></li>
       {% endif %}
 
-    {% if author.zbmath %}
-    <li><a href="{{ author.zbmath }}"><i class="fas fa-fw fa-graduation-cap icon-pad-right" aria-hidden="true"></i>zbMATH</a></li>
-    {% endif %}
+{% if author.zbmath %}
+<li><a href="{{ author.zbmath }}"><i class="fas fa-fw fa-atom icon-pad-right" aria-hidden="true"></i>zbMATH</a></li>
+{% endif %}
       
       <!-- Font Awesome icons / Repositories and software development -->
       {% if author.bitbucket %}
