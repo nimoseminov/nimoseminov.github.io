@@ -55,7 +55,7 @@ Skills and interests
 * Play the violin / Geige spielen / скрипки
 
   
-Publications
+Journal Articles / Unpublished translation of mathematical literature
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
