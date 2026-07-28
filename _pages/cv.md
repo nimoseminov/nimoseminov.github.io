@@ -35,7 +35,7 @@ Projects
 Preprints
 ======
 * Yimu Mao, Christopher Tropp, "A Unified Variational Framework for Planar Elastica with General Distributed Loads" ([arXiv:2512.08958](https://arxiv.org/abs/2512.08958), 2025)
-* Yimu Mao, Christopher Tropp, "Classification of derived Azumaya Algebras over derived smooth manifolds via derived Brauer Groups" ([arXiv:2512.08958](https://arxiv.org/abs/2607.22668), 2026)
+* Yimu Mao, Christopher Tropp, "Classification of derived Azumaya Algebras over derived smooth manifolds via derived Brauer Groups" ([arXiv:2607.22668](https://arxiv.org/abs/2607.22668), 2026)
   
 Skills and interests
 ======
