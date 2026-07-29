@@ -13,7 +13,7 @@ citation: >
   "Classification of derived Azumaya Algebras over derived smooth manifolds via derived Brauer Groups"
 ---
 
-For a derived smooth manifold $(X,\mathcal O_X)$ in the sense of Spivak, we pull back Toën's categorical derived Brauer stack along the forgetful functor from simplicial $C^\infty$-rings to connective simplicial commutative rings and then stackify on the open site of $X$. The resulting categorical Brauer stack has the homotopy type
+For a derived smooth manifold \((X,\mathcal O_X)\) in the sense of Spivak, we pull back Toën's categorical derived Brauer stack along the forgetful functor from simplicial $C^\infty$-rings to connective simplicial commutative rings and then stackify on the open site of $X$. The resulting categorical Brauer stack has the homotopy type
 
 $$
 \mathfrak{Br}_X
