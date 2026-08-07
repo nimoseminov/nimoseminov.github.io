@@ -36,6 +36,27 @@ Preprints
 ======
 * Yimu Mao, Christopher Tropp, "A Unified Variational Framework for Planar Elastica with General Distributed Loads" ([arXiv:2512.08958](https://arxiv.org/abs/2512.08958), 2025)
 * Yimu Mao, Christopher Tropp, "Classification of derived Azumaya Algebras over derived smooth manifolds via derived Brauer Groups" ([arXiv:2607.22668](https://arxiv.org/abs/2607.22668), 2026)
+
+
+Conferences and Presentations
+
+- Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
+  Kiel University, Germany, 2026
+  - Lightning talk and Poster Presentation
+  - Title: "The Categorical Pullback of Toën’s Derived Brauer Stack to Derived Smooth Manifolds"
+
+
+- International Conference on Geometry, Integrability and Quantization, 
+  Varna, Bulgaria, 2026
+  - Contributed Talk (online)
+  - Title: "Unified Variational Structures for Planar Rods with General Distributed Energies"
+
+Conferences and Workshops
+
+- Conference on "New Perspectives on Stable Homotopy and Beyond",
+  Max Planck Institute for Mathematics, Bonn, Germany, 2026
+  - Participant
+
   
 Skills and interests
 ======
