@@ -39,7 +39,7 @@ Preprints
 
 
 Conferences and Presentations
-
+======
 - Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
   Kiel University, Germany, 2026
   - Lightning talk and Poster Presentation
@@ -52,7 +52,7 @@ Conferences and Presentations
   - Title: "Unified Variational Structures for Planar Rods with General Distributed Energies"
 
 Conferences and Workshops
-
+======
 - Conference on "New Perspectives on Stable Homotopy and Beyond",
   Max Planck Institute for Mathematics, Bonn, Germany, 2026
   - Participant
