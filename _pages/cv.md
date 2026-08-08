@@ -40,23 +40,20 @@ Preprints
 
 Conferences and Presentations
 ======
+- Conference on "New Perspectives on Stable Homotopy and Beyond",
+  Max Planck Institute for Mathematics, Bonn, Germany, 2026
+  - Gong Show
+  - Title: "Extending Derived Azumaya Algebras to Derived Smooth Manifolds"
+
 - Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
   Kiel University, Germany, 2026
   - Lightning talk and Poster Presentation
   - Title: "The Categorical Pullback of Toën’s Derived Brauer Stack to Derived Smooth Manifolds"
 
-
 - International Conference on Geometry, Integrability and Quantization, 
   Varna, Bulgaria, 2026
   - Contributed Talk (online)
   - Title: "Unified Variational Structures for Planar Rods with General Distributed Energies"
-
-Conferences and Workshops
-======
-- Conference on "New Perspectives on Stable Homotopy and Beyond",
-  Max Planck Institute for Mathematics, Bonn, Germany, 2026
-  - Participant
-
   
 Skills and interests
 ======
@@ -64,11 +61,7 @@ Skills and interests
   * [Hochschild-Kostant-Rosenberg theorem](https://ncatlab.org/nlab/show/Hochschild-Kostant-Rosenberg+theorem)
   * [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
 * Programming & Computational Tools
-  * Julia
-  * C++
-  * MATLAB
-  * Mathematica
-  * LaTeX
+  * Julia, C++, MATLAB, Mathematica, LaTeX
 * language
   * English (fluent; used in academic writing and international competitions)
   * German (fluent; schooling and academic communication)
