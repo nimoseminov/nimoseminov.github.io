@@ -40,6 +40,11 @@ Preprints
 
 Conferences and Presentations
 ======
+- Interactions between operator algebras, K-theory and homotopy theory,
+  Münster university, Münster, Germany, 2026
+  - Poster Presentation
+  - Title: "Derived Azumaya Algebras and Brauer Groups over Derived Smooth Manifolds"
+
 - Conference on "New Perspectives on Stable Homotopy and Beyond",
   Max Planck Institute for Mathematics, Bonn, Germany, 2026
   - Gong Show
@@ -48,7 +53,7 @@ Conferences and Presentations
 - Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
   Kiel University, Germany, 2026
   - Lightning talk and Poster Presentation
-  - Title: "The Categorical Pullback of Toën’s Derived Brauer Stack to Derived Smooth Manifolds"
+  - Title: "A Picard–Brauer Object for Derived Smooth Manifolds"
 
 - International Conference on Geometry, Integrability and Quantization, 
   Varna, Bulgaria, 2026
