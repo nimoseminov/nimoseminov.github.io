@@ -2,7 +2,7 @@
 title: "A Picard-Theoretic Brauer Object for Derived Smooth Manifolds"
 collection: publications
 category: manuscripts
-permalink: "/publication/2026-07-05-derived-azumaya" 
+permalink: "/publication/2026-07-05-Picard-Theoretic" 
 excerpt: 'For a derived smooth manifold...'
 date: 2026.7.5
 venue: 'arXiv'
@@ -10,7 +10,7 @@ slidesurl: 'https://arxiv.org/abs/2607.22668'
 paperurl: 'https://arxiv.org/abs/2607.22668'
 citation: >
   Y.Mao, C.Tropp. (2026).
-  "Classification of derived Azumaya Algebras over derived smooth manifolds via derived Brauer Groups"
+  "A Picard-Theoretic Brauer Object for Derived Smooth Manifold"
 ---
 
 For a derived smooth manifold $(X,\mathcal O_X)$ in the sense of Spivak, we pull back Toën's categorical derived Brauer stack along the forgetful functor from simplicial $C^\infty$-rings to connective simplicial commutative rings and then stackify on the open site of $X$. The resulting categorical Brauer stack has the homotopy type
