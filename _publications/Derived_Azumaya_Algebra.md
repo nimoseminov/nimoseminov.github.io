@@ -1,5 +1,5 @@
 ---
-title: "Classification of derived Azumaya Algebras over derived smooth manifolds via derived Brauer Groups"
+title: "A Picard-Theoretic Brauer Object for Derived Smooth Manifolds"
 collection: publications
 category: manuscripts
 permalink: "/publication/2026-07-05-derived-azumaya" 
