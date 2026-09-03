@@ -47,7 +47,7 @@ Conferences and Presentations
 
 - Conference on "New Perspectives on Stable Homotopy and Beyond",
   Max Planck Institute for Mathematics, Bonn, Germany, 2026
-  - Gong Show
+  - Lightning talk
   - Title: "Extending Derived Azumaya Algebras to Derived Smooth Manifolds"
 
 - Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
