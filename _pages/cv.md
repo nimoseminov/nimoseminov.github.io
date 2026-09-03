@@ -35,7 +35,7 @@ Projects
 Preprints
 ======
 * Yimu Mao, Christopher Tropp, "A Unified Variational Framework for Planar Elastica with General Distributed Loads" ([arXiv:2512.08958](https://arxiv.org/abs/2512.08958), 2025)
-* Yimu Mao, Christopher Tropp, "Classification of derived Azumaya Algebras over derived smooth manifolds via derived Brauer Groups" ([arXiv:2607.22668](https://arxiv.org/abs/2607.22668), 2026)
+* Yimu Mao, Christopher Tropp, "A Picard-Theoretic Brauer Object for Derived Smooth Manifolds" ([arXiv:2607.22668](https://arxiv.org/abs/2607.22668), 2026)
 
 
 Conferences and Presentations
@@ -43,7 +43,7 @@ Conferences and Presentations
 - Interactions between operator algebras, K-theory and homotopy theory,
   Münster university, Münster, Germany, 2026
   - Poster Presentation
-  - Title: "Derived Azumaya Algebras and Brauer Groups over Derived Smooth Manifolds"
+  - Title: "The Picard Homotopy Type of a Derived Smooth Manifold"
 
 - Conference on "New Perspectives on Stable Homotopy and Beyond",
   Max Planck Institute for Mathematics, Bonn, Germany, 2026
