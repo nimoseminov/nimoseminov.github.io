@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Junior high school: NanJing 29th Middle School Junior High School, 2019-2022
-* ~~Language School: Nanjing Xianlin Foreign Language School, 2022-2023~~
+* **~~Language School: Nanjing Xianlin Foreign Language School, 2022-2023~~**
 * High School: Stiftung Louisenlund, 2023-2027
 
 Work experience
