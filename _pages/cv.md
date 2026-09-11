@@ -75,7 +75,7 @@ Skills and interests
   * Chinese (native)
 * Play the violin / Geige spielen / скрипки
 
-Journal Articles / Preprints
+Journal Articles / Preprints / Project Reports
 ======
 
 <ul>
@@ -83,13 +83,7 @@ Journal Articles / Preprints
 {% for post in article_posts reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
-</ul>
 
-
-Project Reports
-======
-
-<ul>
 {% assign report_posts = site.publications | where_exp: "post", "post.path contains '_publications/Project_Report/'" %}
 {% for post in report_posts reversed %}
   {% include archive-single-cv.html %}
