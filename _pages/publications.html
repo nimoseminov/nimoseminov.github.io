@@ -6,6 +6,38 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
+  <div class="wordwrap">
+    You can also find my articles on
+    <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.
+  </div>
+{% endif %}
+
+{% include base_path %}
+
+
+<h2>Journal Articles / Preprints</h2>
+<hr>
+
+{% assign article_posts = site.publications | where_exp: "post", "post.path contains '_publications/Journal_Preprint/'" %}
+
+{% for post in article_posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
+
+<!--
+
+
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
+
+{% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
   <div class="wordwrap">Besides my research publications, I also include my own mathematical translations and research</a></div>
   <div class="wordwrap">internship reports below</a>.</div>
@@ -14,6 +46,11 @@ author_profile: true
 {% include base_path %}
 
 <!-- New style rendering if publication categories are defined -->
+
+
+<!--
+
+
 {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
@@ -35,4 +72,4 @@ author_profile: true
 {% endif %}
 
 
-
+--!>
