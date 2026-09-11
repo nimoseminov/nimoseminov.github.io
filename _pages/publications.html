@@ -27,6 +27,18 @@ author_profile: true
 
 
 
+<h2>Project Reports</h2>
+<hr>
+
+{% assign report_posts = site.publications | where_exp: "post", "post.path contains '_publications/Project_Report/'" %}
+
+{% for post in report_posts reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+
+
 <!--
 
 
