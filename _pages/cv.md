@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* NanJing 29th Middle School Junior High School, 2022
-* Stiftung Louisenlund, untergraduated
+* NanJing 29th Middle School Junior High School, 2019-2022
+* Nanjing Xianlin Foreign Language School, 2022-2023
+* Stiftung Louisenlund, 2023-2027
 
 Work experience
 ======
