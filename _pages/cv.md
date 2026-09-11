@@ -19,61 +19,13 @@ Work experience
 ======
 * Spring 2023: Math teaching assistant
   * NanJing
-  * Duties includes: Providing Math help and math instruction
+  * Duties includes: Providing Math help and Math instruction
   * Supervisor: Nobody
 
 * Summer 2025: Research Intern – Real Algebraic Geometry
   * Institute of Geometry, Faculty of Mathematics, TU Dresden (Dresden University of Technology)
   * Duties includes: [A project about real algebraic geometry](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia)
   * Supervisor: [Prof. Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer) ([mario.kummer@tu-dresden.de](mailto:mario.kummer@tu-dresden.de),)
- 
-Projects
-======
-* Summer 2025 - Topological Classification of Real del Pezzo surfaces of degree 3 and 4 in $$\mathbb{RP}^3$$ and $$\mathbb{RP}^4$$ via Counting Real Lines Using Julia
-  * Project Page: [Topological Classification of Cubic Surfaces in Three-Dimensional Real Projective Space based on Julia Implementations: 5 Case Studies (German)](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia)
-  * Code and Github repository: [Julia Code](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4)
-
-Preprints
-======
-* Yimu Mao, Christopher Tropp, "A Unified Variational Framework for Planar Elastica with General Distributed Loads" ([arXiv:2512.08958](https://arxiv.org/abs/2512.08958), 2025)
-* Yimu Mao, Christopher Tropp, "A Picard-Theoretic Brauer Object for Derived Smooth Manifolds" ([arXiv:2607.22668](https://arxiv.org/abs/2607.22668), 2026)
-
-
-Conferences and Presentations
-======
-- Interactions between operator algebras, K-theory and homotopy theory,
-  Münster university, Münster, Germany, 2026
-  - Poster Presentation
-  - Title: "The Picard Homotopy Type of a Derived Smooth Manifold"
-
-- Conference on "New Perspectives on Stable Homotopy and Beyond",
-  Max Planck Institute for Mathematics, Bonn, Germany, 2026
-  - Lightning talk
-  - Title: "Extending Derived Azumaya Algebras to Derived Smooth Manifolds"
-
-- Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
-  Kiel University, Germany, 2026
-  - Lightning talk and Poster Presentation
-  - Title: "A Picard–Brauer Object for Derived Smooth Manifolds"
-
-- International Conference on Geometry, Integrability and Quantization, 
-  Varna, Bulgaria, 2026
-  - Contributed Talk (online)
-  - Title: "Unified Variational Structures for Planar Rods with General Distributed Energies"
-  
-Skills and interests
-======
-* Mathematics / Mathematik / Mатематика
-  * [Hochschild-Kostant-Rosenberg theorem](https://ncatlab.org/nlab/show/Hochschild-Kostant-Rosenberg+theorem)
-  * [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
-* Programming & Computational Tools
-  * Julia, C++, MATLAB, Mathematica, LaTeX
-* language
-  * English (fluent; used in academic writing and international competitions)
-  * German (fluent; schooling and academic communication)
-  * Russian (informal and reading)
-  * Chinese (native)
-* Play the violin / Geige spielen / скрипки
 
 Journal Articles / Preprints / Project Reports
 ======
@@ -91,7 +43,49 @@ Journal Articles / Preprints / Project Reports
 </ul>
 
 
+Projects
+======
+* Summer 2025 - Topological Classification of Real del Pezzo surfaces of degree 3 and 4 in $$\mathbb{RP}^3$$ and $$\mathbb{RP}^4$$ via Counting Real Lines Using Julia
+  * Project Page: [Topological Classification of Cubic Surfaces in Three-Dimensional Real Projective Space based on Julia Implementations: 5 Case Studies (German)](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia)
+  * Code and Github repository: [Julia Code](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4)
+
+
+
+
+Conferences and Presentations
+======
+- Interactions between operator algebras, K-theory and homotopy theory, Münster university, Münster, Germany, 2026
+  - Title (Poster Presentation): "The Picard Homotopy Type of a Derived Smooth Manifold"
+
+- Conference on "New Perspectives on Stable Homotopy and Beyond", Max Planck Institute for Mathematics, Bonn, Germany, 2026
+  - Title (Lightning talk): "Towards a Theory of Derived Azumaya Algebras on Derived Smooth Manifolds"
+
+- Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
+  Kiel University, Germany, 2026
+  - Title (Lightning talk and Poster Presentation): "A Picard–Brauer Object for Derived Smooth Manifolds"
+
+- International Conference on Geometry, Integrability and Quantization, 
+  Varna, Bulgaria, 2026
+  - Title (Contributed Talk): "Unified Variational Structures for Planar Rods with General Distributed Energies"
+
+  
+
   
 Service and leadership
 ======
 * No, but may be in the future.
+
+
+Skills and interests
+======
+* Mathematics / Mathematik / Mатематика
+  * [Hochschild-Kostant-Rosenberg theorem](https://ncatlab.org/nlab/show/Hochschild-Kostant-Rosenberg+theorem)
+  * [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
+* Programming & Computational Tools
+  * Julia, C++, MATLAB, Mathematica, LaTeX
+* language
+  * English (fluent; used in academic writing and international competitions)
+  * German (fluent; schooling and academic communication)
+  * Russian (informal and reading)
+  * Chinese (native)
+* Play the violin / Geige spielen / скрипки
