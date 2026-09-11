@@ -75,12 +75,27 @@ Skills and interests
   * Chinese (native)
 * Play the violin / Geige spielen / скрипки
 
-  
-Journal Articles / Unpublished translation of mathematical literature
+Journal Articles / Preprints
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
+<ul>
+{% assign article_posts = site.publications | where_exp: "post", "post.path contains '_publications/Journal_Preprint/'" %}
+{% for post in article_posts reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
+
+Project Reports
+======
+
+<ul>
+{% assign report_posts = site.publications | where_exp: "post", "post.path contains '_publications/Project_Report/'" %}
+{% for post in report_posts reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+</ul>
+
 
   
 Service and leadership
