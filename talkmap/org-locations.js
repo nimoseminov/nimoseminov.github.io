@@ -1,22 +1,22 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Kiel, Germany — Lightning talk and poster",
+    54.3233,
+    10.1228
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "Bonn, Germany — MPIM, Gong show",
+    50.7374,
+    7.0982
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Münster, Germany — Poster presentation",
+    51.9607,
+    7.6261
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Varna, Bulgaria — GIQ, online participation",
+    43.2141,
+    27.9147
   ]
 ];
