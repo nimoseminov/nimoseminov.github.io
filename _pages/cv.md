@@ -10,18 +10,18 @@ redirect_from:
 {% include base_path %}
 <style>
 #conferences-and-presentations + ul li {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  margin-top: 0.15em !important;
+  margin-bottom: 0.15em !important;
 }
 
 #conferences-and-presentations + ul ul,
 #conferences-and-presentations + ul p {
-  margin-top: 0 !important;
-  margin-bottom: 0 !important;
+  margin-top: 0.15em !important;
+  margin-bottom: 0.15em !important;
 }
 
 #conferences-and-presentations + ul > li {
-  margin-bottom: 0.1em !important;
+  margin-bottom: 0.15em !important;
 }
 </style>
 
