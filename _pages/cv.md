@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <style>
 #conferences-and-presentations + ul > li {
-  margin-bottom: 0.35em;
+  margin-bottom: 0.25em;
 }
 </style>
 
