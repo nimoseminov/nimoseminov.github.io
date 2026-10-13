@@ -54,9 +54,9 @@ Projects
 
 Conferences and Presentations
 ======
-* Positive Geometry Beyond Physics,
+- Positive Geometry Beyond Physics,
   Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany, 10.2026
-  * Participant
+  - Participant
 
 * Interactions between operator algebras, K-theory and homotopy theory,
   Münster university, Münster, Germany, 9.2026
