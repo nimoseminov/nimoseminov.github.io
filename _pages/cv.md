@@ -86,7 +86,7 @@ Conferences and Presentations
   Kiel University, Germany, 9.2026
   - Lightning talk and Poster Presentation: ["A Picard–Brauer Object for Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-01-09-kiel)
 
-- International Conference on Geometry, Integrability and Quantization, 
+- [International Conference on Geometry, Integrability and Quantization](https://geometry.imbm.bas.bg/conference/), 
   Varna, Bulgaria, 6.2026
   - Contributed Talk: ["Unified Variational Structures for Planar Rods with General Distributed Energies"](https://nimoseminov.github.io/talks/2026-10-06-giq)
 
