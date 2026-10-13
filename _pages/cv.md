@@ -25,7 +25,7 @@ Work experience
 * Summer 2025: Research Intern – Real Algebraic Geometry
   * Institute of Geometry, Faculty of Mathematics, TU Dresden (Dresden University of Technology)
   * Duties includes: [A project about real algebraic geometry](https://nimoseminov.github.io/publication/2025-07-05-topologische-klassifikation-kubischer-flaechen-julia)
-  * Supervisor: [Prof. Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer) ([mario.kummer@tu-dresden.de](mailto:mario.kummer@tu-dresden.de),)
+  * Supervisor: [Prof. Mario Kummer](https://tu-dresden.de/mn/math/geometrie/kummer) ([mario.kummer@tu-dresden.de](mailto:mario.kummer@tu-dresden.de))
 
 Journal Articles / Preprints / Project Reports
 ======
@@ -54,19 +54,24 @@ Projects
 
 Conferences and Presentations
 ======
-- Interactions between operator algebras, K-theory and homotopy theory, Münster university, Münster, Germany, 2026
-  - Title (Poster Presentation): "The Picard Homotopy Type of a Derived Smooth Manifold"
+- Positive Geometry Beyond Physics,
+  Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany, 2026
+  - Participant
 
-- Conference on "New Perspectives on Stable Homotopy and Beyond", Max Planck Institute for Mathematics, Bonn, Germany, 2026
-  - Title (Lightning talk): "Towards a Theory of Derived Azumaya Algebras on Derived Smooth Manifolds"
+- Interactions between operator algebras, K-theory and homotopy theory, Münster university, Münster, Germany, 2026
+  - Poster Presentation: ["The Picard Homotopy Type of a Derived Smooth Manifold"](https://nimoseminov.github.io/talks/2026-09-09-Munster)
+
+- Conference on "New Perspectives on Stable Homotopy and Beyond",
+  Max Planck Institute for Mathematics, Bonn, Germany, 2026
+  - Lightning talk: ["Towards a Theory of Derived Azumaya Algebras on Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-07-09-Bonn)
 
 - Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
   Kiel University, Germany, 2026
-  - Title (Lightning talk and Poster Presentation): "A Picard–Brauer Object for Derived Smooth Manifolds"
+  - Lightning talk and Poster Presentation: ["A Picard–Brauer Object for Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-01-09-kiel)
 
 - International Conference on Geometry, Integrability and Quantization, 
   Varna, Bulgaria, 2026
-  - Title (Contributed Talk): "Unified Variational Structures for Planar Rods with General Distributed Energies"
+  - Contributed Talk: ["Unified Variational Structures for Planar Rods with General Distributed Energies"](https://nimoseminov.github.io/talks/2026-10-06-giq)
 
   
 
