@@ -78,7 +78,7 @@ Conferences and Presentations
   Münster university, Münster, Germany, 9.2026
   - Poster Presentation: ["The Picard Homotopy Type of a Derived Smooth Manifold"](https://nimoseminov.github.io/talks/2026-09-09-Munster)
 
-- Conference on "New Perspectives on Stable Homotopy and Beyond",
+- [Conference on "New Perspectives on Stable Homotopy and Beyond"](https://www.mpim-bonn.mpg.de/nps60),
   Max Planck Institute for Mathematics, Bonn, Germany, 9.2026
   - Lightning talk: ["Towards a Theory of Derived Azumaya Algebras on Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-07-09-Bonn)
 
