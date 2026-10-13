@@ -12,6 +12,7 @@ redirect_from:
 #conferences-and-presentations + ul > li {
   margin-bottom: 0.35em;
 }
+</style>
 
 Education
 ======
