@@ -58,21 +58,21 @@ Conferences and Presentations
   Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany, 10.2026
   - Participant
 
-* Interactions between operator algebras, K-theory and homotopy theory,
+- Interactions between operator algebras, K-theory and homotopy theory,
   Münster university, Münster, Germany, 9.2026
-  * Poster Presentation: ["The Picard Homotopy Type of a Derived Smooth Manifold"](https://nimoseminov.github.io/talks/2026-09-09-Munster)
+  - Poster Presentation: ["The Picard Homotopy Type of a Derived Smooth Manifold"](https://nimoseminov.github.io/talks/2026-09-09-Munster)
 
-* Conference on "New Perspectives on Stable Homotopy and Beyond",
+- Conference on "New Perspectives on Stable Homotopy and Beyond",
   Max Planck Institute for Mathematics, Bonn, Germany, 9.2026
-  * Lightning talk: ["Towards a Theory of Derived Azumaya Algebras on Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-07-09-Bonn)
+  - Lightning talk: ["Towards a Theory of Derived Azumaya Algebras on Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-07-09-Bonn)
 
-* Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
+- Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
   Kiel University, Germany, 9.2026
-  * Lightning talk and Poster Presentation: ["A Picard–Brauer Object for Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-01-09-kiel)
+  - Lightning talk and Poster Presentation: ["A Picard–Brauer Object for Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-01-09-kiel)
 
-* International Conference on Geometry, Integrability and Quantization, 
+- International Conference on Geometry, Integrability and Quantization, 
   Varna, Bulgaria, 6.2026
-  * Contributed Talk: ["Unified Variational Structures for Planar Rods with General Distributed Energies"](https://nimoseminov.github.io/talks/2026-10-06-giq)
+  - Contributed Talk: ["Unified Variational Structures for Planar Rods with General Distributed Energies"](https://nimoseminov.github.io/talks/2026-10-06-giq)
 
   
 
