@@ -70,11 +70,11 @@ Projects
 
 Conferences and Presentations
 ======
-- Positive Geometry Beyond Physics,
+- [Positive Geometry Beyond Physics](https://www.mis.mpg.de/events/series/positive-geometry-beyond-physics),
   Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany, 10.2026
   - Participant
 
-- Interactions between operator algebras, K-theory and homotopy theory,
+- [Interactions between operator algebras, K-theory and homotopy theory](https://www.uni-muenster.de/MathematicsMuenster/events/2026/interactions-between-operator-algebras-k-theory-homotopy-theory.shtml),
   Münster university, Münster, Germany, 9.2026
   - Poster Presentation: ["The Picard Homotopy Type of a Derived Smooth Manifold"](https://nimoseminov.github.io/talks/2026-09-09-Munster)
 
@@ -82,7 +82,7 @@ Conferences and Presentations
   Max Planck Institute for Mathematics, Bonn, Germany, 9.2026
   - Lightning talk: ["Towards a Theory of Derived Azumaya Algebras on Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-07-09-Bonn)
 
-- Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology, 
+- [Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology](https://www.math.uni-kiel.de/geometrie/de/essig/stratKiel2026/), 
   Kiel University, Germany, 9.2026
   - Lightning talk and Poster Presentation: ["A Picard–Brauer Object for Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-01-09-kiel)
 
