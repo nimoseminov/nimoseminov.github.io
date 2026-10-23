@@ -1,5 +1,5 @@
 ---
-title: "Interactions between operator algebras, K-theory and homotopy theory, Munster"
+title: "Interactions between operator algebras, K-theory and homotopy theory, Münster university, Münster"
 permalink: /photo/Munster/
 author_profile: true
 ---
