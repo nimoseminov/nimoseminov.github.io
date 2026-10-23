@@ -1,5 +1,5 @@
 ---
-title: "Conference on “New Perspectives on Stable Homotopy and Beyond, Max Planck Institute for Mathematics, Bonn"
+title: "Conference on “New Perspectives on Stable Homotopy and Beyond”, Max Planck Institute for Mathematics, Bonn, Germany, 9.2026"
 permalink: /photo/MPIM/
 author_profile: true
 ---
