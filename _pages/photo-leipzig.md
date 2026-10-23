@@ -6,4 +6,4 @@ author_profile: true
 
 [← Back to Photos](/photo/)
 
-![MPIM — photo 1](/images/photo/Leipzig/01.jpg)
+![Leipzig — photo 1](/images/photo/Leipzig/01.jpg)
