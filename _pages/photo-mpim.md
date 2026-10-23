@@ -1,5 +1,5 @@
 ---
-title: "MPIM Bonn"
+title: "Conference on “New Perspectives on Stable Homotopy and Beyond, Max Planck Institute for Mathematics, Bonn"
 permalink: /photo/MPIM/
 author_profile: true
 ---
