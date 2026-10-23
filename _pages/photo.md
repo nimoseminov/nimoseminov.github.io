@@ -9,7 +9,7 @@ author_profile: true
 
 A collection of photographs from conferences, talks, and academic visits.
 
-### [Kiel — Academic Activities](/photo/Kiel/)
+### [Kiel — Visit and Talk](/photo/Kiel/)
 
 Photographs from conferences and talks in Kiel.
 
@@ -17,7 +17,7 @@ Photographs from conferences and talks in Kiel.
 
 Photographs from my visit to the Max Planck Institute for Mathematics in Bonn.
 
-### [Münster — Academic Activities](/photo/Muenster/)
+### [Münster — Visit and Talk](/photo/Muenster/)
 
 Photographs from conferences and talks in Münster.
 
