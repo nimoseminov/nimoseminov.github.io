@@ -2,7 +2,7 @@
 title: "Derived Azumaya Algebras on Compact Derived Smooth Manifolds"
 collection: publications
 category: manuscripts
-permalink: "/publication/2026-07-05-Picard-Theoretic" 
+permalink: "/publication/2026-10-30-DAG_on_DSM" 
 excerpt: 'For a derived smooth manifold...'
 date: 2026.10.30
 venue: 'arXiv'
