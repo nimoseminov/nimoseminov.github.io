@@ -1,39 +1,25 @@
 ---
-title: "A Picard-Theoretic Brauer Object for Derived Smooth Manifolds"
+title: "Derived Azumaya Algebras on Compact Derived Smooth Manifolds"
 collection: publications
 category: manuscripts
 permalink: "/publication/2026-07-05-Picard-Theoretic" 
 excerpt: 'For a derived smooth manifold...'
 date: 2026.7.5
 venue: 'arXiv'
-slidesurl: 'https://arxiv.org/abs/2607.22668'
-paperurl: 'https://arxiv.org/abs/2607.22668'
+slidesurl: ''
+paperurl: ''
 citation: >
   Y.Mao, C.Tropp. (2026).
-  "A Picard-Theoretic Brauer Object for Derived Smooth Manifold"
+  "Derived Azumaya Algebras on Compact Derived Smooth Manifolds"
 ---
-
-For a derived smooth manifold $(X,\mathcal O_X)$ in the sense of Spivak, we pull back Toën's categorical derived Brauer stack along the forgetful functor from simplicial $C^\infty$-rings to connective simplicial commutative rings and then stackify on the open site of $X$. The resulting categorical Brauer stack has the homotopy type
+We extend Toën's derived Brauer theory to the open site of Spivak's derived smooth manifolds. For a compact derived smooth manifold $X$, we define a spectralized structure sheaf $\mathbb O_X$ and prove that every Picard twist can be represented by a derived Azumaya algebra, whose Morita equivalence class is uniquely determined by the twist. In the open locally Morita trivial setting, this gives a natural bijection
 
 $$
-\mathfrak{Br}_X
-\simeq
-K(\underline{\mathbb Z},1)
+\Phi_X:\mathbf{dBr}^{\mathrm{open}}(X)
+\xrightarrow{\cong}
+H^1(|X|;\underline{\mathbb Z})
 \times
-B^2GL_1(\mathcal O_X).
+\pi_0\Gamma\bigl(|X|,\mathrm B^2GL_1(\mathbb O_X)\bigr).
 $$
 
-Consequently its group of stackified Brauer classes is
-
-$$
-dBr(X):=\pi_0\Gamma(X,\mathfrak{Br}_X)
-\cong
-H^1(X,\underline{\mathbb Z})
-\times
-\pi_0\Gamma(X,B^2GL_1(\mathcal O_X)),
-$$
-
-where $GL_1(\mathcal O_X)$ is the sheaf of derived units. The usual formula with
-$H^2(X,\mathcal O_X^\times)$ is recovered when the structure sheaf is discrete.
-This shows that the pullback categorical Brauer invariant is governed by the
-full homotopy type of the derived unit sheaf.
+If we consider $C^\infty_X(\mathbb C)$ on ordinary smooth manifolds, the second factor is $H^3(|X|;\underline{\mathbb Z})$, which recovers the Dixmier–Douady invariant. If we consider $C^\infty_X(\mathbb R)$, the second factor is $H^2(|X|;\underline{\mathbb Z/2})$, which recovers the corresponding invariant of Donovan and Karoubi.
