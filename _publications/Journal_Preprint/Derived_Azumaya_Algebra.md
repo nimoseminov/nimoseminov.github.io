@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: "/publication/2026-07-05-Picard-Theoretic" 
 excerpt: 'For a derived smooth manifold...'
-date: 2026.7.5
+date: 2026.10.30
 venue: 'arXiv'
 slidesurl: ''
 paperurl: ''
