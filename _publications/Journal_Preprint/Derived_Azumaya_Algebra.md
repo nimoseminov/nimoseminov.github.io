@@ -22,4 +22,4 @@ H^1(|X|;\underline{\mathbb Z})
 \pi_0\Gamma\bigl(|X|,\mathrm B^2GL_1(\mathbb O_X)\bigr).
 $$
 
-If we consider $C^\infty_X(\mathbb C)$ on ordinary smooth manifolds, the second factor is $H^3(|X|;\underline{\mathbb Z})$, which recovers the Dixmier–Douady invariant. If we consider $C^\infty_X(\mathbb R)$, the second factor is $H^2(|X|;\underline{\mathbb Z/2})$, which recovers the corresponding invariant of Donovan and Karoubi.
+If we consider $C^\infty_X(\mathbb C)$ on ordinary smooth manifolds, the second factor is $H^3(\lvert X\rvert;\underline{\mathbb Z})$, which recovers the Dixmier–Douady invariant. If we consider $C^\infty_X(\mathbb R)$, the second factor is $H^2(\lvert X\rvert;\underline{\mathbb Z/2})$, which recovers the corresponding invariant of Donovan and Karoubi.
