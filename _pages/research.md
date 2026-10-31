@@ -15,7 +15,7 @@ My decision to write this paper also had a personal motivation. I wanted to stud
 
 ### Real Algebraic Geometry
 
-During an internship at TU Dresden, I explored real algebraic geometry through computational work on real algebraic surfaces. Using Julia, I combined theoretical descriptions with explicit computations to investigate the geometric properties of particular examples. This experience introduced me to an approach to research that begins with concrete geometric objects and uses computation to explore mathematical questions.
+During an internship at TU Dresden under the supervision of Prof. Mario Kummer, I explored real algebraic geometry through computational work on real algebraic surfaces. Using Julia, I combined theoretical descriptions with explicit computations to investigate the geometric properties of particular examples. This experience introduced me to an approach to research that begins with concrete geometric objects and uses computation to explore mathematical questions.
 
 My research focus subsequently shifted to derived geometry and homotopical algebra, and I am no longer working in real algebraic geometry. Nevertheless, this experience broadened my mathematical perspective. Ideas from real algebraic geometry, particularly through positive geometry and its connections with scattering amplitudes, also showed me another mathematical route toward understanding quantum field theory. This encouraged me to learn more about how different areas of mathematics approach related problems through their own objects and methods.
 
