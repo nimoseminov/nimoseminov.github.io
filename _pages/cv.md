@@ -66,7 +66,11 @@ Projects
   * Code and Github repository: [Julia Code](https://github.com/nimoseminov/Real-Lines-on-Del-Pezzo-Surfaces-of-Degree-3-and-4-in-RP3-and-RP4)
 
 
-
+Upcoming Activities
+======
+- Summer Semester 2027 — Research Seminar on Algebraic Topology,
+  Universität Hamburg, Germany
+  - Seminar talk; exact date to be confirmed.
 
 Conferences and Presentations
 ======
