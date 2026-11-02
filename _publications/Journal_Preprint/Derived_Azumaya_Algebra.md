@@ -6,8 +6,8 @@ permalink: "/publication/2026-10-30-DAG_on_DSM"
 excerpt: 'For a derived smooth manifold...'
 date: 2026.10.30
 venue: 'arXiv'
-slidesurl: ''
-paperurl: ''
+slidesurl: 'https://arxiv.org/abs/2607.22668'
+paperurl: 'https://arxiv.org/abs/2607.22668'
 citation: >
   Y.Mao, C.Tropp. (2026).
   "Derived Azumaya Algebras on Compact Derived Smooth Manifolds"
