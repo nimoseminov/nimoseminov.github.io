@@ -9,18 +9,18 @@ redirect_from:
 
 {% include base_path %}
 <style>
-#conferences-and-presentations + ul li {
+#conferences-i-attended + ul li {
   margin-top: 0.3em !important;
   margin-bottom: 0.3em !important;
 }
 
-#conferences-and-presentations + ul ul,
-#conferences-and-presentations + ul p {
+#conferences-i-attended + ul ul,
+#conferences-i-attended + ul p {
   margin-top: 0.3em !important;
   margin-bottom: 0.3em !important;
 }
 
-#conferences-and-presentations + ul > li {
+#conferences-i-attended + ul > li {
   margin-bottom: 0.3em !important;
 }
 </style>
@@ -68,32 +68,17 @@ Projects
 
 Upcoming Activities
 ======
-- Summer Semester 2027 — Research Seminar on Algebraic Topology,
-  Universität Hamburg, Germany
-  - Seminar talk; exact date to be confirmed.
-
-Conferences and Presentations
+- [Research Seminar on Algebraic Topology](https://www.math.uni-hamburg.de/forschung/bereiche/az/topologie/lehre/research-seminar.html),
+  Universität Hamburg, Germany, Summer Semester 2027
+  (Seminar talk; exact date to be confirmed).
+  
+Conferences I attended
 ======
-- [Positive Geometry Beyond Physics](https://www.mis.mpg.de/events/series/positive-geometry-beyond-physics),
-  Max Planck Institute for Mathematics in the Sciences, Leipzig, Germany, 10.2026
-  - Participant
-
-- [Interactions between operator algebras, K-theory and homotopy theory](https://www.uni-muenster.de/MathematicsMuenster/events/2026/interactions-between-operator-algebras-k-theory-homotopy-theory.shtml),
-  Münster university, Münster, Germany, 9.2026
-  - Poster Presentation: ["The Picard Homotopy Type of a Derived Smooth Manifold"](https://nimoseminov.github.io/talks/2026-09-09-Munster)
-
-- [Conference on "New Perspectives on Stable Homotopy and Beyond"](https://www.mpim-bonn.mpg.de/nps60),
-  Max Planck Institute for Mathematics, Bonn, Germany, 9.2026
-  - Lightning talk: ["Towards a Theory of Derived Azumaya Algebras on Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-07-09-Bonn)
-
-- [Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology](https://www.math.uni-kiel.de/geometrie/de/essig/stratKiel2026/), 
-  Kiel University, Germany, 9.2026
-  - Lightning talk and Poster Presentation: ["A Picard–Brauer Object for Derived Smooth Manifolds"](https://nimoseminov.github.io/talks/2026-01-09-kiel)
-
-- [International Conference on Geometry, Integrability and Quantization](https://geometry.imbm.bas.bg/conference/), 
-  Varna, Bulgaria, 6.2026
-  - Contributed Talk: ["Unified Variational Structures for Planar Rods with General Distributed Energies"](https://nimoseminov.github.io/talks/2026-10-06-giq)
-
+- [Positive Geometry Beyond Physics](https://www.mis.mpg.de/events/series/positive-geometry-beyond-physics), October 2026.
+- [Interactions between operator algebras, K-theory and homotopy theory](https://www.uni-muenster.de/MathematicsMuenster/events/2026/interactions-between-operator-algebras-k-theory-homotopy-theory.shtml), September 2026.
+- [Conference on "New Perspectives on Stable Homotopy and Beyond"](https://www.mpim-bonn.mpg.de/nps60), September 2026.
+- [Stratifying Kiel: Stratified Spaces from Higher Category Theory to Applied Topology](https://www.math.uni-kiel.de/geometrie/de/essig/stratKiel2026/), September 2026.
+- [International Conference on Geometry, Integrability and Quantization](https://geometry.imbm.bas.bg/conference/), June 2026.
   
 
   
@@ -105,8 +90,7 @@ Service and leadership
 Skills and interests
 ======
 * Mathematics / Mathematik / Mатематика
-  * [Hochschild-Kostant-Rosenberg theorem](https://ncatlab.org/nlab/show/Hochschild-Kostant-Rosenberg+theorem)
-  * [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology)
+  * [Hochschild-Kostant-Rosenberg theorem](https://ncatlab.org/nlab/show/Hochschild-Kostant-Rosenberg+theorem), [De Rham cohomology](https://en.wikipedia.org/wiki/De_Rham_cohomology), Algebraic Topology, Algebraic Geometry, and Derived Geometry
 * Programming & Computational Tools
   * Julia, C++, MATLAB, Mathematica, LaTeX
 * language
